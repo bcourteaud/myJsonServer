@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "prenom": "Julien",
+      "nom": "Dupont",
+      "email": "julien.dupont@gmail.com"
+    },
+    {
+      "id": 2,
+      "prenom": "Billy",
+      "nom": "Dupond",
+      "email": "billy.dupond@gmail.com"
+    }
+  ],
+  "devices": [
+    {
+      "id": 1,
+      "mac": "ABCD"
+    },
+    {
+      "id": 2,
+      "mac": "EFGH"
+    },
+    {
+      "id": 3,
+      "mac": "IJKL"
+    }
+  ]
+}
